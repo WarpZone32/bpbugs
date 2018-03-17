@@ -1,6 +1,6 @@
 bpbugs
 ==========
-Special thanks for Lars Doucet for his definitive tutorial on Automated Transparent Development.  You can read it at https://www.gamasutra.com/blogs/LarsDoucet/20150401/240254/Automated_Transparent_Development.php
+**Special thanks for Lars Doucet for his definitive tutorial on Automated Transparent Development.  You can read it at https://www.gamasutra.com/blogs/LarsDoucet/20150401/240254/Automated_Transparent_Development.php**
 
 This repo doesn't have any code, it's just a convenient dumping ground for any issues users might find in the test builds for Blast Pulser.
 
